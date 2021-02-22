@@ -1,8 +1,6 @@
 ## Welcome to MMB Store
 
-You can use the [editor on GitHub](https://github.com/Ender-MCBE/MMB-Store/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On MMB Store you can find our texture packs, addons, and maps feel free to look around at our free stuff.
 
 ### Markdown
 
